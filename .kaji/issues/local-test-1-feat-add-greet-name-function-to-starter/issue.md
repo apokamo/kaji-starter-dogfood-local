@@ -1,11 +1,14 @@
 ---
 id: local-test-1
 title: 'feat: add greet(name) function to starter_app'
-state: open
+state: closed
 slug: feat-add-greet-name-function-to-starter
 labels:
 - type:feature
 created_at: '2026-07-03T18:20:35Z'
+closed_at: '2026-07-03T18:34:42Z'
+closed_by: test
+close_reason: completed
 ---
 > [!NOTE]
 > **Worktree**: `../kaji-feat-local-test-1`
